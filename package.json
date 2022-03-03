@@ -1,0 +1,20 @@
+{
+	"name": "assessment",
+	"version": "1.0.0",
+	"description": "Backend Api",
+	"main": "app.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"author": "Arcival Palma",
+	"license": "MIT",
+	"dependencies": {
+		"axios": "^0.21.1",
+		"express": "^4.17.1",
+		"morgan": "^1.10.0"
+	},
+	"devDependencies": {
+		"jest": "^26.6.3",
+		"supertest": "^6.1.3"
+	}
+}
